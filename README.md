@@ -7,3 +7,13 @@ First comment
 4.testing
 5.moving to production
 6.Monitoring
+
+Shell scripting
+1.comments
+2.print
+3.variable
+4.Functions
+5.conditions
+6.Loops
+7.exit status & Redirectors & Quotes
+8.SED editor
